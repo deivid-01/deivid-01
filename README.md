@@ -1,12 +1,6 @@
 ### Hi, I'm David! 👋
 
-I am a Systems Engineer from the University of Antioquia.
-
-I currently work as a Gameplay Developer at Indie Level Studio
-
-I have more than three years of experience in Unity and starting to acquire skills in UnrealEngine.
-
-I am a very creative and curious person, you can check it out some of the projects I have done here at https://www.behance.net/davidtorres128
+I am a Systems Engineer from the University of Antioquia.I currently work as a Gameplay Developer at Indie Level Studio.I have more than three years of experience in Unity and starting to acquire skills in UnrealEngine. I am a very creative and curious person, you can check it out some of the projects I have done here at https://www.behance.net/davidtorres128
 
 
 You can contact me here:
