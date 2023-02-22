@@ -4,7 +4,7 @@ I am a Systems Engineer from the University of Antioquia.I currently work as a G
 
 
 You can contact me here:
-- https://www.linkedin.com/in/david-torres-81075b182/
+- https://www.linkedin.com/in/deivid01
 - deividtorr01@gmail.com
 
 <!--
